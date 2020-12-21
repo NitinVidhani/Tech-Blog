@@ -1,0 +1,14 @@
+.primary-background {
+    background: #006064;
+    color: "#FFFFFF";
+}
+
+.secondary-background {
+    background: #b2ebf2;
+}
+.btn-custom-primary {
+    background: #006064;
+}
+.btn-custom-primary:hover {
+    background: #00838f;
+}
